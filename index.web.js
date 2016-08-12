@@ -15,7 +15,7 @@ class ReactNativeWeb extends Component {
           Welcome to my App!
         </Text>
         <Text style={styles.instructions}>
-          Instructions to come.
+          Instructions? We dont need any of those!
         </Text>
         <Text style={styles.secondaryInstructions}>
         Testing hot reloading!
